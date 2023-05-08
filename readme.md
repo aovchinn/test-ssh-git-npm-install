@@ -1,3 +1,5 @@
+issue: https://github.com/npm/cli/issues/6435
+
 use one command to install cli module written in ts (module is located in git repo)
 
 it needs `npx tsc` in the `prepare` step
